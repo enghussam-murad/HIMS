@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\bin\Debug\netstandard2.1\Application.dll
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\obj\Debug\netstandard2.1\Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\obj\Debug\netstandard2.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\obj\Debug\netstandard2.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\obj\Debug\netstandard2.1\Application.dll
+C:\Users\Lenovo\source\repos\OnionArchetictur\Application\obj\Debug\netstandard2.1\Application.pdb
